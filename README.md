@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [VIP Aviation Project Maintenance checkliste](In progress)
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👯 I’m looking to collaborate on [Interesting projects as needed](In progress)
 
