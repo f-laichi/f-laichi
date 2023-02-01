@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-laichi" alt="f-laichi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/flichi2008" target="blank"><img src="https://img.shields.io/twitter/follow/flichi2008?logo=twitter&style=for-the-badge" alt="flichi2008" /></a> </p>
+<p align="left"> <a href="https://twitter.com/flichi2008" target="blank"><img src="https://img.shields.io/twitter/follow/flichi2008?logo=twitter&style=for-the-badge" alt="f-laichi" /></a> </p>
 
 - 🔭 I’m currently working on [VIP Aviation Project Maintenance checkliste](In progress)
 
