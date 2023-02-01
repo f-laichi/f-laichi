@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f-laichi&label=Profile%20views&color=0e75b6&style=flat" alt="f-laichi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=f-laichi" alt="f-laichi" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=f-laichi" alt="f-laichi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/flichi2008" target="blank"><img src="https://img.shields.io/twitter/follow/flichi2008?logo=twitter&style=for-the-badge" alt="f-laichi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/f-laichi" target="blank"><img src="https://img.shields.io/twitter/follow/f-laichi?logo=twitter&style=for-the-badge" alt="f-laichi" /></a> </p>
 
 - 🔭 I’m currently working on [VIP Aviation Project Maintenance checkliste](In progress)
 
